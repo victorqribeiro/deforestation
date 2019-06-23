@@ -10,7 +10,7 @@ This project was developed as an assignment for a machine learning class, where 
 
 I then gather some training data, generated a histogram for every image and analysed the final image with a simple KNN (k=7) I wrote.
 
-I was very happy with the results I got given the little code I wrote.
+I was very happy with the results I got given the little code I wrote (this project is from 2017).
 
 ## How to run
 
